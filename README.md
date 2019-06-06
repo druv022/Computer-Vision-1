@@ -11,3 +11,14 @@ This repository contains code for the labs of the Computer Vision 1 course at th
   <i>Original image (a) and corrected image (b) using Grey-World algorithm.</i>
   <br />
  </p>
+ 
+ ### Lab 2 - Neighborhood Processing & Filters
+ 
+ [Problem](lab2/Lab01_Instruction.pdf), [Report](lab2/11593040_11576200.pdf), [Code](lab2/)
+ 
+ <p align="center">
+  <img src="fig/fig2.png" width="500" /><br />
+  <i>Gabor Segmentation of different images, Kobi, Robin-1, Robin-2, Polar (reading row-wise). </i>
+  <br />
+ </p>
+ 
