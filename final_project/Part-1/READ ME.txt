@@ -1,0 +1,7 @@
+The files should be places in the same folder as "Caltech" folder
+
+The image source are:
+
+src="Caltech4/ImageData/airplanes_test/imgXXX.jpg"
+
+exactly the same as provided in the template.
