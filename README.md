@@ -14,7 +14,7 @@ This repository contains code for the labs of the Computer Vision 1 course at th
  
  ### Lab 2 - Neighborhood Processing & Filters
  
- [Problem](lab2/Lab01_Instruction.pdf), [Report](lab2/11593040_11576200.pdf), [Code](lab2/)
+ [Problem](lab2/Lab02_Instruction.pdf), [Report](lab2/11593040_11576200.pdf), [Code](lab2/)
  
  <p align="center">
   <img src="fig/fig2.png" width="500" /><br />
@@ -22,3 +22,10 @@ This repository contains code for the labs of the Computer Vision 1 course at th
   <br />
  </p>
  
+ ### Lab 3 - Harris Corner Detector & Optical Flow 
+ [Problem](lab3/Lab03_Instruction.pdf), [Report](lab3/harris-corner-detector.pdf), [Code](lab3/)
+ 
+ <p align="center">
+  <img src="fig/person_toy.gif" width="350" /><br />
+  <i>Tracking via optical flow </i>
+</p>
