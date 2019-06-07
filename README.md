@@ -29,3 +29,16 @@ This repository contains code for the labs of the Computer Vision 1 course at th
   <img src="fig/person_toy.gif" width="350" /><br />
   <i>Tracking via optical flow </i>
 </p>
+
+### Lab 4 - Image Alignment and Stitching
+[Problem](lab4/Lab04_Instruction.pdf), [Report](lab4/image-alignment-stitching.pdf), [Code](lab4/)
+
+<p align="center">
+  <img src="fig/fig3.png" width="450" /><br />
+  <i> Stitching of images </i>
+  <br />
+ </p>
+ 
+### Final Project - Image Classification: BoW and CNNs
+
+[Problem-Part1](final_project/FinalProject_part_1_bow.pdf), [Problem-Part2](final_project/FinalProject_part_2_cnn.pdf), [Report](final_project/final-project-cv.pdf), [Code](final_project/)
