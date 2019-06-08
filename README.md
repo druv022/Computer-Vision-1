@@ -2,7 +2,9 @@
 
 This repository contains code for the labs of the Computer Vision 1 course at the University of Amsterdam.
 
-#### This lab was done in collaboration with [Tarun Krishna](https://github.com/KrishnaTarun)
+### Contributors
+* [Tarun Krishna](https://github.com/KrishnaTarun)
+* [Dhruba Pujary](https://github.com/druv022)
 
 ### Lab 1 - Photometric Stereo, Color Spaces, Intrinsic Image Decomposition and Color Constancy
 
